@@ -1,0 +1,332 @@
+.about-us-tab-child {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    background-color: var(--color-yellow);
+    width: 90rem;
+    height: 48.625rem;
+}
+.about {
+    position: absolute;
+    top: 0rem;
+    left: 1.25rem;
+}
+.us {
+    position: absolute;
+    top: 0rem;
+    left: 23.188rem;
+}
+.we-pride-ourselves {
+    margin: 0;
+}
+.we-pride-ourselves-container {
+    position: absolute;
+    top: 12rem;
+    left: 2rem;
+    font-size: var(--font-size-45xl);
+    display: inline-block;
+    width: 86.875rem;
+    height: 6.75rem;
+}
+.about-us-tab {
+    position: absolute;
+    top: 103.063rem;
+    left: 0rem;
+    width: 90rem;
+    height: 48.625rem;
+    font-size: var(--font-size-77xl);
+}
+.n-icon {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 13.625rem;
+    height: 13.625rem;
+    object-fit: cover;
+}
+.criselda-esmero {
+    position: absolute;
+    top: 14.063rem;
+    left: 0rem;
+    text-decoration: underline;
+    font-weight: 700;
+    color: inherit;
+    display: inline-block;
+    width: 15.75rem;
+    height: 1.063rem;
+}
+.n-parent {
+    position: absolute;
+    top: 0rem;
+    left: 32rem;
+    width: 15.75rem;
+    height: 15.125rem;
+}
+.klyde-rosales {
+    position: absolute;
+    top: 14.063rem;
+    left: 1.125rem;
+    text-decoration: underline;
+    font-weight: 700;
+    color: inherit;
+    display: inline-block;
+    width: 15.75rem;
+    height: 1.063rem;
+}
+.b {
+    position: absolute;
+    top: 15.688rem;
+    left: 2.063rem;
+}
+.n-group {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 16.875rem;
+    height: 17.688rem;
+}
+.n-icon2 {
+    position: absolute;
+    top: 0rem;
+    left: 0.875rem;
+    width: 14.031rem;
+    height: 13.625rem;
+    object-fit: cover;
+}
+.b1 {
+    position: absolute;
+    top: 15.688rem;
+    left: 3.125rem;
+}
+.n-container {
+    position: absolute;
+    top: 0rem;
+    left: 62.875rem;
+    width: 15.75rem;
+    height: 17.688rem;
+}
+.contact {
+    position: absolute;
+    top: 165.25rem;
+    left: 5.688rem;
+    width: 78.625rem;
+    height: 17.688rem;
+    font-size: var(--font-size-5xl);
+}
+.hausbreq-1-icon {
+    position: absolute;
+    top: 11.125rem;
+    left: 0rem;
+    width: 90rem;
+    height: 41.125rem;
+    object-fit: cover;
+}
+.fresh-farm-poultry-container {
+    position: absolute;
+    top: 20.625rem;
+    left: 5.125rem;
+    font-size: var(--font-size-45xl);
+    color: var(--color-yellow);
+    text-shadow: 3px 0 0 #000, 0 3px 0 #000, -3px 0 0 #000, 0 -3px 0 #000;
+}
+.all-products-tab-child {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    background-color: var(--color-white);
+    width: 90rem;
+    height: 50.688rem;
+}
+.group-child {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    border-radius: var(--br-11xl) var(--br-11xl) 0px 0px;
+    background-color: var(--color-whitesmoke);
+    width: 25.063rem;
+    height: 27.438rem;
+}
+.group-item {
+    position: absolute;
+    top: 27.438rem;
+    left: 0rem;
+    border-radius: 0px 0px var(--br-11xl) var(--br-11xl);
+    background-color: var(--color-yellow);
+    width: 25.063rem;
+    height: 6.563rem;
+}
+.php {
+    position: absolute;
+    top: 31.313rem;
+    left: 7.438rem;
+}
+.small-sized {
+    position: absolute;
+    top: 28.063rem;
+    left: 6.625rem;
+}
+.rectangle-parent {
+    position: absolute;
+    top: 8.688rem;
+    left: 4.438rem;
+    width: 25.063rem;
+    height: 34rem;
+}
+.medium-sized {
+    position: absolute;
+    top: 28rem;
+    left: 5.563rem;
+}
+.rectangle-group {
+    position: absolute;
+    top: 8.688rem;
+    left: 32.5rem;
+    width: 25.063rem;
+    height: 34rem;
+}
+.php2 {
+    position: absolute;
+    top: 31.313rem;
+    left: 7.5rem;
+}
+.large-sized {
+    position: absolute;
+    top: 28rem;
+    left: 6.375rem;
+}
+.rectangle-container {
+    position: absolute;
+    top: 8.688rem;
+    left: 60.563rem;
+    width: 25.063rem;
+    height: 34rem;
+}
+.all-products {
+    position: absolute;
+    top: 4.625rem;
+    left: 37.75rem;
+}
+.egg2-icon {
+    position: absolute;
+    top: 15rem;
+    left: 33.5rem;
+    width: 23rem;
+    height: 15.938rem;
+    object-fit: cover;
+}
+.egg3-icon {
+    position: absolute;
+    top: 15.688rem;
+    left: 60.75rem;
+    width: 24.313rem;
+    height: 16.813rem;
+    object-fit: cover;
+}
+.image-1-icon {
+    position: absolute;
+    top: 13.25rem;
+    left: 6.313rem;
+    width: 21.688rem;
+    height: 21.688rem;
+    object-fit: cover;
+}
+.all-products-tab {
+    position: absolute;
+    top: 52.375rem;
+    left: 0rem;
+    width: 90rem;
+    height: 50.688rem;
+    cursor: pointer;
+}
+.manokem1-1-icon {
+    position: absolute;
+    top: -0.125rem;
+    left: 0rem;
+    width: 11.25rem;
+    height: 11.25rem;
+    object-fit: cover;
+}
+.desktop-1-child {
+    position: absolute;
+    top: 184.125rem;
+    left: 81.188rem;
+    width: 7rem;
+    height: 7rem;
+    cursor: pointer;
+}
+.desktop-1-item {
+    position: absolute;
+    top: 185.75rem;
+    left: 84.813rem;
+    width: 0rem;
+    height: 3.938rem;
+    object-fit: contain;
+}
+.group-child3 {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    border-radius: var(--br-xl);
+    background-color: var(--color-yellow);
+    width: 9.75rem;
+    height: 5.438rem;
+}
+.home {
+    position: absolute;
+    top: 1.375rem;
+    left: 1.813rem;
+}
+.group-div {
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 9.75rem;
+    height: 5.438rem;
+    cursor: pointer;
+}
+.products {
+    position: absolute;
+    top: 1.688rem;
+    left: 0.875rem;
+}
+.rectangle-parent1 {
+    position: absolute;
+    top: 0rem;
+    left: 11.25rem;
+    width: 9.75rem;
+    height: 5.438rem;
+    cursor: pointer;
+    font-size: var(--font-size-5xl);
+}
+.about1 {
+    position: absolute;
+    top: 1.375rem;
+    left: 1.438rem;
+}
+.rectangle-parent2 {
+    position: absolute;
+    top: 0rem;
+    left: 22.5rem;
+    width: 9.75rem;
+    height: 5.438rem;
+    cursor: pointer;
+}
+.top {
+    position: absolute;
+    top: 2rem;
+    left: 55.688rem;
+    width: 32.25rem;
+    height: 5.438rem;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    height: 191.938rem;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-black);
+    font-family: var(--font-gadugi);
+}
+

@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-gadugi: Gadugi;
+    
+    /* font sizes */
+    --font-size-13xl: 2rem;
+    --font-size-5xl: 1.5rem;
+    --font-size-45xl: 4rem;
+    --font-size-77xl: 6rem;
+    
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-yellow: #fff500;
+    --color-whitesmoke: #f1f1f1;
+    
+    /* Border radiuses */
+    --br-xl: 20px;
+    --br-11xl: 30px;
+    
+}
